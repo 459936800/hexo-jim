@@ -271,7 +271,10 @@ mark {
 .daodream-sheet-content {
 	bottom: 120px !important;
 }
-
+.daodream-launcher-button {
+	right: 50px !important;
+	bottom: -5px !important;
+}
 .bg-color {
 	background-image: linear-gradient(to right, #040333 0%, #063879 100%);
 }
